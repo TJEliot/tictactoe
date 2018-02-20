@@ -1,0 +1,3 @@
+README
+
+This is a simple Tic Tac Toe game. It runs by sending PROMPTs to display the board state and to ask for your next move. It does everything you would expect.
